@@ -34,3 +34,5 @@ When launching your Ubuntu EC2 instance via the AWS Console or AWS CLI, ensure y
 
 ---
 *Developed as part of a cloud infrastructure automation portfolio exploring resilient Linux-based web hosting architectures.*
+## 📸 Live Deployment Verification
+![Live Web Server Page](webserver-live.png.png)
